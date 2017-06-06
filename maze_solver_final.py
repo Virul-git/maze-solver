@@ -86,7 +86,7 @@ keep_moving(start_pixel[1],start_pixel[0])
 
 for a in cor:
 	for b in a :
-		print(b,end=" ")
+		print(b),
 	print(' ',)		
 
 input()
